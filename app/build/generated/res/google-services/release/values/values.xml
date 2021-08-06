@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">298466480132-n7pqvvoo42glpacq0575of9na1t6sqco.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://varagifoods-c1f2e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">298466480132</string>
+    <string name="google_api_key" translatable="false">AIzaSyDwm0Hl2ESzwiIXtt6eP6nBON4Gp8IYLBM</string>
+    <string name="google_app_id" translatable="false">1:298466480132:android:62039bb8e2e721a1b6a551</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDwm0Hl2ESzwiIXtt6eP6nBON4Gp8IYLBM</string>
+    <string name="google_storage_bucket" translatable="false">varagifoods-c1f2e.appspot.com</string>
+    <string name="project_id" translatable="false">varagifoods-c1f2e</string>
+</resources>

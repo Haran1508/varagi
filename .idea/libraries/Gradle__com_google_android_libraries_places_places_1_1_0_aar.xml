@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.libraries.places:places:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d042704aead23f173ca2dcf1f3fa41b0/jetified-places-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d042704aead23f173ca2dcf1f3fa41b0/jetified-places-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d042704aead23f173ca2dcf1f3fa41b0/jetified-places-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b82419b459866b50065cd4ae4364cf49/jetified-places-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b82419b459866b50065cd4ae4364cf49/jetified-places-1.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b82419b459866b50065cd4ae4364cf49/jetified-places-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36886061f4a07cce9b9c9799fc7acdb5/jetified-places-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36886061f4a07cce9b9c9799fc7acdb5/jetified-places-1.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36886061f4a07cce9b9c9799fc7acdb5/jetified-places-1.1.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e9771786ff43ef626b8f61b556b7d841/jetified-places-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e9771786ff43ef626b8f61b556b7d841/jetified-places-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e9771786ff43ef626b8f61b556b7d841/jetified-places-1.1.0/AndroidManifest.xml" />
+      <root url="jar://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/3263f1689e5db41891312d2c97c9afb0/jetified-places-1.1.0/jars/classes.jar!/" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/3263f1689e5db41891312d2c97c9afb0/jetified-places-1.1.0/AndroidManifest.xml" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/3263f1689e5db41891312d2c97c9afb0/jetified-places-1.1.0/res" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/dbf2bd4f279c820dbd151ddfbec76819/jetified-places-1.1.0/res" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/dbf2bd4f279c820dbd151ddfbec76819/jetified-places-1.1.0/AndroidManifest.xml" />
+      <root url="jar://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/dbf2bd4f279c820dbd151ddfbec76819/jetified-places-1.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

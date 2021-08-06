@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="Gradle: am.appwise.components:NoInternetDialog:1.1.3@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f26d4461eecf53dd3a1316965872b7fe/jetified-NoInternetDialog-1.1.3/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/70e765f952af9a1e1f9a7de057bebb76/jetified-NoInternetDialog-1.1.3/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/791bf77a7d30a00e02b3b5ca0debd4cf/jetified-NoInternetDialog-1.1.3/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/264b3fc05baa3fb598dd49b9d4be5d29/jetified-NoInternetDialog-1.1.3/annotations.zip!/" />
+      <root url="jar://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/82e7fdb61e53a982645457029bae9652/jetified-NoInternetDialog-1.1.3/annotations.zip!/" />
+      <root url="jar://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/445b99df193b4a71e95ce066660b83da/jetified-NoInternetDialog-1.1.3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f26d4461eecf53dd3a1316965872b7fe/jetified-NoInternetDialog-1.1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f26d4461eecf53dd3a1316965872b7fe/jetified-NoInternetDialog-1.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f26d4461eecf53dd3a1316965872b7fe/jetified-NoInternetDialog-1.1.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/70e765f952af9a1e1f9a7de057bebb76/jetified-NoInternetDialog-1.1.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/70e765f952af9a1e1f9a7de057bebb76/jetified-NoInternetDialog-1.1.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/70e765f952af9a1e1f9a7de057bebb76/jetified-NoInternetDialog-1.1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/791bf77a7d30a00e02b3b5ca0debd4cf/jetified-NoInternetDialog-1.1.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/791bf77a7d30a00e02b3b5ca0debd4cf/jetified-NoInternetDialog-1.1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/791bf77a7d30a00e02b3b5ca0debd4cf/jetified-NoInternetDialog-1.1.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/264b3fc05baa3fb598dd49b9d4be5d29/jetified-NoInternetDialog-1.1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/264b3fc05baa3fb598dd49b9d4be5d29/jetified-NoInternetDialog-1.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/264b3fc05baa3fb598dd49b9d4be5d29/jetified-NoInternetDialog-1.1.3/AndroidManifest.xml" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/82e7fdb61e53a982645457029bae9652/jetified-NoInternetDialog-1.1.3/AndroidManifest.xml" />
+      <root url="jar://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/82e7fdb61e53a982645457029bae9652/jetified-NoInternetDialog-1.1.3/jars/classes.jar!/" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/82e7fdb61e53a982645457029bae9652/jetified-NoInternetDialog-1.1.3/res" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/445b99df193b4a71e95ce066660b83da/jetified-NoInternetDialog-1.1.3/AndroidManifest.xml" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/445b99df193b4a71e95ce066660b83da/jetified-NoInternetDialog-1.1.3/res" />
+      <root url="jar://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/445b99df193b4a71e95ce066660b83da/jetified-NoInternetDialog-1.1.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/am.appwise.components/NoInternetDialog/1.1.3/55e7ac69dba2c5824b42bc2bbf849e41fad720db/NoInternetDialog-1.1.3-javadoc.jar!/" />
+      <root url="jar://E:/Android Studio/.gradle/caches/modules-2/files-2.1/am.appwise.components/NoInternetDialog/1.1.3/55e7ac69dba2c5824b42bc2bbf849e41fad720db/NoInternetDialog-1.1.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/am.appwise.components/NoInternetDialog/1.1.3/1e30308163ff93de8a221bf01f65fb6605345d5/NoInternetDialog-1.1.3-sources.jar!/" />
+      <root url="jar://E:/Android Studio/.gradle/caches/modules-2/files-2.1/am.appwise.components/NoInternetDialog/1.1.3/1e30308163ff93de8a221bf01f65fb6605345d5/NoInternetDialog-1.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="Gradle: com.paytm:pgplussdk:1.2.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/214890503faacb9932bae4333e83a747/jetified-pgplussdk-1.2.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/214890503faacb9932bae4333e83a747/jetified-pgplussdk-1.2.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/214890503faacb9932bae4333e83a747/jetified-pgplussdk-1.2.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a52c05eb66ff76ece8c671f41a576001/jetified-pgplussdk-1.2.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a52c05eb66ff76ece8c671f41a576001/jetified-pgplussdk-1.2.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a52c05eb66ff76ece8c671f41a576001/jetified-pgplussdk-1.2.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/571f59503b674aa68693ff3736717031/jetified-pgplussdk-1.2.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/571f59503b674aa68693ff3736717031/jetified-pgplussdk-1.2.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/571f59503b674aa68693ff3736717031/jetified-pgplussdk-1.2.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/91d40f347b8c71d4821adc42af88f1db/jetified-pgplussdk-1.2.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/91d40f347b8c71d4821adc42af88f1db/jetified-pgplussdk-1.2.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/91d40f347b8c71d4821adc42af88f1db/jetified-pgplussdk-1.2.3/res" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/7503c17e4c5adfd90e163832ebc0555a/jetified-pgplussdk-1.2.3/AndroidManifest.xml" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/7503c17e4c5adfd90e163832ebc0555a/jetified-pgplussdk-1.2.3/res" />
+      <root url="jar://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/7503c17e4c5adfd90e163832ebc0555a/jetified-pgplussdk-1.2.3/jars/classes.jar!/" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/ad3fbca7ce9068d8331238df19ab1e52/jetified-pgplussdk-1.2.3/res" />
+      <root url="jar://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/ad3fbca7ce9068d8331238df19ab1e52/jetified-pgplussdk-1.2.3/jars/classes.jar!/" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/ad3fbca7ce9068d8331238df19ab1e52/jetified-pgplussdk-1.2.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paytm/pgplussdk/1.2.3/5165dd258658f59ebb7dff33dbd0d9af00b98a3d/pgplussdk-1.2.3-javadoc.jar!/" />
+      <root url="jar://E:/Android Studio/.gradle/caches/modules-2/files-2.1/com.paytm/pgplussdk/1.2.3/5165dd258658f59ebb7dff33dbd0d9af00b98a3d/pgplussdk-1.2.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paytm/pgplussdk/1.2.3/7213d07063f8826ae9a244354ca52104b83f4688/pgplussdk-1.2.3-sources.jar!/" />
+      <root url="jar://E:/Android Studio/.gradle/caches/modules-2/files-2.1/com.paytm/pgplussdk/1.2.3/7213d07063f8826ae9a244354ca52104b83f4688/pgplussdk-1.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

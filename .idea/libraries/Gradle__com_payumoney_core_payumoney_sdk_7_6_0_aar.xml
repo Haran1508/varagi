@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="Gradle: com.payumoney.core:payumoney-sdk:7.6.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75dea474afee9063b05abcb2ef42722c/jetified-payumoney-sdk-7.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75dea474afee9063b05abcb2ef42722c/jetified-payumoney-sdk-7.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75dea474afee9063b05abcb2ef42722c/jetified-payumoney-sdk-7.6.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4dd8954e4f959b8e885a818df1c4ba5/jetified-payumoney-sdk-7.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4dd8954e4f959b8e885a818df1c4ba5/jetified-payumoney-sdk-7.6.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4dd8954e4f959b8e885a818df1c4ba5/jetified-payumoney-sdk-7.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52c6b587b2fa58c765e2809118aa4b70/jetified-payumoney-sdk-7.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52c6b587b2fa58c765e2809118aa4b70/jetified-payumoney-sdk-7.6.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52c6b587b2fa58c765e2809118aa4b70/jetified-payumoney-sdk-7.6.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/11b970ed1eacc0120e874e0a7525ca01/jetified-payumoney-sdk-7.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/11b970ed1eacc0120e874e0a7525ca01/jetified-payumoney-sdk-7.6.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/11b970ed1eacc0120e874e0a7525ca01/jetified-payumoney-sdk-7.6.0/res" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/023369ceffc4e0d5b84a8cc0b25c752d/jetified-payumoney-sdk-7.6.0/AndroidManifest.xml" />
+      <root url="jar://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/023369ceffc4e0d5b84a8cc0b25c752d/jetified-payumoney-sdk-7.6.0/jars/classes.jar!/" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/023369ceffc4e0d5b84a8cc0b25c752d/jetified-payumoney-sdk-7.6.0/res" />
+      <root url="jar://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/6c48e74799ea3f14477c53d4d6bbc6b5/jetified-payumoney-sdk-7.6.0/jars/classes.jar!/" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/6c48e74799ea3f14477c53d4d6bbc6b5/jetified-payumoney-sdk-7.6.0/res" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/6c48e74799ea3f14477c53d4d6bbc6b5/jetified-payumoney-sdk-7.6.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.payumoney.core/payumoney-sdk/7.6.0/cb3574cb5334749a5c29c87be7bb3089f7fc6c6c/payumoney-sdk-7.6.0-javadoc.jar!/" />
+      <root url="jar://E:/Android Studio/.gradle/caches/modules-2/files-2.1/com.payumoney.core/payumoney-sdk/7.6.0/cb3574cb5334749a5c29c87be7bb3089f7fc6c6c/payumoney-sdk-7.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.payumoney.core/payumoney-sdk/7.6.0/27f6f72fad85428544fe07c6b7938cd3abbac316/payumoney-sdk-7.6.0-sources.jar!/" />
+      <root url="jar://E:/Android Studio/.gradle/caches/modules-2/files-2.1/com.payumoney.core/payumoney-sdk/7.6.0/27f6f72fad85428544fe07c6b7938cd3abbac316/payumoney-sdk-7.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.razorpay:checkout:1.5.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d9d736ab5c1d047b36daa682eb43acc/jetified-checkout-1.5.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d9d736ab5c1d047b36daa682eb43acc/jetified-checkout-1.5.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d9d736ab5c1d047b36daa682eb43acc/jetified-checkout-1.5.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cac221e28621d194fe00c977c2d0e3ce/jetified-checkout-1.5.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cac221e28621d194fe00c977c2d0e3ce/jetified-checkout-1.5.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cac221e28621d194fe00c977c2d0e3ce/jetified-checkout-1.5.5/res" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/cac221e28621d194fe00c977c2d0e3ce/jetified-checkout-1.5.5/res" />
+      <root url="jar://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/cac221e28621d194fe00c977c2d0e3ce/jetified-checkout-1.5.5/jars/classes.jar!/" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/cac221e28621d194fe00c977c2d0e3ce/jetified-checkout-1.5.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.razorpay/checkout/1.5.5/772641c8514e72dd0ca07f44f96e5eabc92911e4/checkout-1.5.5-javadoc.jar!/" />
+      <root url="jar://E:/Android Studio/.gradle/caches/modules-2/files-2.1/com.razorpay/checkout/1.5.5/772641c8514e72dd0ca07f44f96e5eabc92911e4/checkout-1.5.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.razorpay/checkout/1.5.5/113e9b8bb5cafddcad3a08914d6c41925a670c9a/checkout-1.5.5-sources.jar!/" />
+      <root url="jar://E:/Android Studio/.gradle/caches/modules-2/files-2.1/com.razorpay/checkout/1.5.5/113e9b8bb5cafddcad3a08914d6c41925a670c9a/checkout-1.5.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

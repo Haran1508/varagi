@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "298466480132",
+    "firebase_url": "https://varagifoods-c1f2e.firebaseio.com",
+    "project_id": "varagifoods-c1f2e",
+    "storage_bucket": "varagifoods-c1f2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298466480132:android:62039bb8e2e721a1b6a551",
+        "android_client_info": {
+          "package_name": "com.varagifoods.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298466480132-o8o55qgsdvjcbgk4sme2n3spa7f9f61s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.varagifoods.customer",
+            "certificate_hash": "5978bc43909b378275fc02932fa78cdb12950a5e"
+          }
+        },
+        {
+          "client_id": "298466480132-n7pqvvoo42glpacq0575of9na1t6sqco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwm0Hl2ESzwiIXtt6eP6nBON4Gp8IYLBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298466480132-n7pqvvoo42glpacq0575of9na1t6sqco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\varagifoods\\CustomerApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-2\\files-2.1\\201c2eb2e76991c6b0bba19411b00995\\jetified-android-sdk-1.2.6\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,104",
+                        "endLines": "2,5",
+                        "endColumns": "48,12",
+                        "endOffsets": "99,231"
+                    }
+                }
+            ]
+        }
+    ]
+}

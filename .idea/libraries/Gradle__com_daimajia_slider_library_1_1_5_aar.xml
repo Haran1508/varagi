@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="Gradle: com.daimajia.slider:library:1.1.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7de5047ef86880d8b39e87e373354e3/jetified-library-1.1.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7de5047ef86880d8b39e87e373354e3/jetified-library-1.1.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7de5047ef86880d8b39e87e373354e3/jetified-library-1.1.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dfece80959031e1c2b1ce9c5654be432/jetified-library-1.1.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dfece80959031e1c2b1ce9c5654be432/jetified-library-1.1.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dfece80959031e1c2b1ce9c5654be432/jetified-library-1.1.5/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/20894efa4c6c749a3b5766f23ee758e2/jetified-library-1.1.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/20894efa4c6c749a3b5766f23ee758e2/jetified-library-1.1.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/20894efa4c6c749a3b5766f23ee758e2/jetified-library-1.1.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a5f2f6c856d49142676143dba70168f0/jetified-library-1.1.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a5f2f6c856d49142676143dba70168f0/jetified-library-1.1.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a5f2f6c856d49142676143dba70168f0/jetified-library-1.1.5/jars/classes.jar!/" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/f5135722961dc24a9f6ef38dddc442b5/jetified-library-1.1.5/AndroidManifest.xml" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/f5135722961dc24a9f6ef38dddc442b5/jetified-library-1.1.5/res" />
+      <root url="jar://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/f5135722961dc24a9f6ef38dddc442b5/jetified-library-1.1.5/jars/classes.jar!/" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/3c557cda46592a1d80d753e64b5b4563/jetified-library-1.1.5/AndroidManifest.xml" />
+      <root url="file://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/3c557cda46592a1d80d753e64b5b4563/jetified-library-1.1.5/res" />
+      <root url="jar://E:/Android Studio/.gradle/caches/transforms-2/files-2.1/3c557cda46592a1d80d753e64b5b4563/jetified-library-1.1.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.daimajia.slider/library/1.1.5/80f7ad12f4db46326912a82285f58ebe4681740f/library-1.1.5-javadoc.jar!/" />
+      <root url="jar://E:/Android Studio/.gradle/caches/modules-2/files-2.1/com.daimajia.slider/library/1.1.5/80f7ad12f4db46326912a82285f58ebe4681740f/library-1.1.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.daimajia.slider/library/1.1.5/5040bee95115677508106e1a42cd685bdc570369/library-1.1.5-sources.jar!/" />
+      <root url="jar://E:/Android Studio/.gradle/caches/modules-2/files-2.1/com.daimajia.slider/library/1.1.5/5040bee95115677508106e1a42cd685bdc570369/library-1.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

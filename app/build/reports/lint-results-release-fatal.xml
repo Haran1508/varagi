@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="5" by="lint 4.0.1">
+
+    <issue
+        id="NotSibling"
+        severity="Fatal"
+        message="`@+id/btn_logout` is not a sibling in the same `RelativeLayout`"
+        category="Correctness"
+        priority="6"
+        summary="Invalid Constraints"
+        explanation="Layout constraints in a given `ConstraintLayout` or `RelativeLayout` should reference other views within the same relative layout (but not itself!)"
+        errorLine1="        android:layout_above=&quot;@+id/btn_logout&quot;>"
+        errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="D:\varagifoods\CustomerApp\app\src\main\res\layout\fragment_me.xml"
+            line="14"
+            column="9"/>
+    </issue>
+
+    <issue
+        id="NotSibling"
+        severity="Fatal"
+        message="`@+id/edit_address` is not a sibling in the same `RelativeLayout`"
+        category="Correctness"
+        priority="6"
+        summary="Invalid Constraints"
+        explanation="Layout constraints in a given `ConstraintLayout` or `RelativeLayout` should reference other views within the same relative layout (but not itself!)"
+        errorLine1="            android:layout_toStartOf=&quot;@+id/edit_address&quot;"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="D:\varagifoods\CustomerApp\app\src\main\res\layout\layout_card_addresses.xml"
+            line="36"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="NotSibling"
+        severity="Fatal"
+        message="`@id/product_price_new` is not a sibling in the same `RelativeLayout`"
+        category="Correctness"
+        priority="6"
+        summary="Invalid Constraints"
+        explanation="Layout constraints in a given `ConstraintLayout` or `RelativeLayout` should reference other views within the same relative layout (but not itself!)"
+        errorLine1="            android:layout_below=&quot;@id/product_price_new&quot;"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="D:\varagifoods\CustomerApp\app\src\main\res\layout\layout_product_12_grid_lg.xml"
+            line="179"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="NotSibling"
+        severity="Fatal"
+        message="`@id/product_price_new` is not a sibling in the same `RelativeLayout`"
+        category="Correctness"
+        priority="6"
+        summary="Invalid Constraints"
+        explanation="Layout constraints in a given `ConstraintLayout` or `RelativeLayout` should reference other views within the same relative layout (but not itself!)"
+        errorLine1="            android:layout_below=&quot;@id/product_price_new&quot;"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="D:\varagifoods\CustomerApp\app\src\main\res\layout\layout_product_12_grid_sm.xml"
+            line="179"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="NotSibling"
+        severity="Fatal"
+        message="`@id/product_price_new` is not a sibling in the same `RelativeLayout`"
+        category="Correctness"
+        priority="6"
+        summary="Invalid Constraints"
+        explanation="Layout constraints in a given `ConstraintLayout` or `RelativeLayout` should reference other views within the same relative layout (but not itself!)"
+        errorLine1="            android:layout_below=&quot;@id/product_price_new&quot;"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="D:\varagifoods\CustomerApp\app\src\main\res\layout\layout_product_14_grid_lg.xml"
+            line="174"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="NotSibling"
+        severity="Fatal"
+        message="`@id/product_price_new` is not a sibling in the same `RelativeLayout`"
+        category="Correctness"
+        priority="6"
+        summary="Invalid Constraints"
+        explanation="Layout constraints in a given `ConstraintLayout` or `RelativeLayout` should reference other views within the same relative layout (but not itself!)"
+        errorLine1="            android:layout_below=&quot;@id/product_price_new&quot;"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="D:\varagifoods\CustomerApp\app\src\main\res\layout\layout_product_14_grid_sm.xml"
+            line="174"
+            column="13"/>
+    </issue>
+
+</issues>

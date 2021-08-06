@@ -1,0 +1,297 @@
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+-keep class androidx.core.content.FileProvider { <init>(); }
+-keep class com.braintreepayments.api.AndroidPayActivity { <init>(); }
+-keep class com.braintreepayments.api.GooglePaymentActivity { <init>(); }
+-keep class com.braintreepayments.api.dropin.AddCardActivity { <init>(); }
+-keep class com.braintreepayments.api.dropin.DropInActivity { <init>(); }
+-keep class com.braintreepayments.api.dropin.VaultManagerActivity { <init>(); }
+-keep class com.braintreepayments.api.internal.AnalyticsIntentService { <init>(); }
+-keep class com.braintreepayments.api.threedsecure.ThreeDSecureWebViewActivity { <init>(); }
+-keep class com.facebook.CurrentAccessTokenExpirationBroadcastReceiver { <init>(); }
+-keep class com.facebook.CustomTabActivity { <init>(); }
+-keep class com.facebook.CustomTabMainActivity { <init>(); }
+-keep class com.facebook.FacebookActivity { <init>(); }
+-keep class com.facebook.internal.FacebookInitProvider { <init>(); }
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+-keep class com.google.android.libraries.places.widget.AutocompleteActivity { <init>(); }
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+-keep class com.instamojo.android.activities.PaymentActivity { <init>(); }
+-keep class com.instamojo.android.activities.PaymentDetailsActivity { <init>(); }
+-keep class com.onesignal.BootUpReceiver { <init>(); }
+-keep class com.onesignal.GcmBroadcastReceiver { <init>(); }
+-keep class com.onesignal.GcmIntentJobService { <init>(); }
+-keep class com.onesignal.GcmIntentService { <init>(); }
+-keep class com.onesignal.NotificationOpenedReceiver { <init>(); }
+-keep class com.onesignal.NotificationRestoreService { <init>(); }
+-keep class com.onesignal.PermissionsActivity { <init>(); }
+-keep class com.onesignal.RestoreJobService { <init>(); }
+-keep class com.onesignal.RestoreKickoffJobService { <init>(); }
+-keep class com.onesignal.SyncJobService { <init>(); }
+-keep class com.onesignal.SyncService { <init>(); }
+-keep class com.onesignal.UpgradeReceiver { <init>(); }
+-keep class com.paypal.android.sdk.payments.FuturePaymentConsentActivity { <init>(); }
+-keep class com.paypal.android.sdk.payments.FuturePaymentInfoActivity { <init>(); }
+-keep class com.paypal.android.sdk.payments.LoginActivity { <init>(); }
+-keep class com.paypal.android.sdk.payments.PayPalFuturePaymentActivity { <init>(); }
+-keep class com.paypal.android.sdk.payments.PayPalProfileSharingActivity { <init>(); }
+-keep class com.paypal.android.sdk.payments.PayPalService { <init>(); }
+-keep class com.paypal.android.sdk.payments.PaymentActivity { <init>(); }
+-keep class com.paypal.android.sdk.payments.PaymentConfirmActivity { <init>(); }
+-keep class com.paypal.android.sdk.payments.PaymentMethodActivity { <init>(); }
+-keep class com.paypal.android.sdk.payments.ProfileSharingConsentActivity { <init>(); }
+-keep class com.paytm.pgsdk.IntentServicePostNotification { <init>(); }
+-keep class com.paytm.pgsdk.IntentServicePreNotification { <init>(); }
+-keep class com.paytm.pgsdk.PaytmPGActivity { <init>(); }
+-keep class com.paytm.pgsdk.easypay.utils.AnalyticsService { <init>(); }
+-keep class com.paytm.pgsdk.easypay.utils.EasypayLoaderService { <init>(); }
+-keep class com.payu.custombrowser.CBActivity { <init>(); }
+-keep class com.payu.custombrowser.PreLollipopPaymentsActivity { <init>(); }
+-keep class com.payu.custombrowser.PrePaymentsActivity { <init>(); }
+-keep class com.payu.custombrowser.services.SnoozeService { <init>(); }
+-keep class com.payu.upisdk.upiintent.PaymentResponseUpiSdkActivity { <init>(); }
+-keep class com.payumoney.core.SdkWebViewActivityNew { <init>(); }
+-keep class com.payumoney.sdkui.ui.activities.PayUmoneyActivity { <init>(); }
+-keep class com.payumoney.sdkui.ui.activities.ReviewOrderActivity { <init>(); }
+-keep class com.razorpay.CheckoutActivity { <init>(); }
+-keep class com.razorpay.RzpTokenReceiver { <init>(); }
+-keep class com.varagifoods.customer.Maps.MapActivity { <init>(); }
+-keep class com.varagifoods.customer.activities.IntroScreen { <init>(); }
+-keep class com.varagifoods.customer.activities.Login { <init>(); }
+-keep class com.varagifoods.customer.activities.MainActivity { <init>(); }
+-keep class com.varagifoods.customer.activities.Order_Tracking_Activity { <init>(); }
+-keep class com.varagifoods.customer.activities.Signup { <init>(); }
+-keep class com.varagifoods.customer.activities.SplashScreen { <init>(); }
+-keep class com.varagifoods.customer.app.App { <init>(); }
+-keep class com.varagifoods.customer.receivers.AlarmReceiver { <init>(); }
+-keep class com.varagifoods.customer.services.MyFirebaseInstanceIDService { <init>(); }
+-keep class instamojo.library.Instamojo { <init>(); }
+-keep class io.card.payment.CardIOActivity { <init>(); }
+-keep class io.card.payment.DataEntryActivity { <init>(); }
+-keep class android.widget.Space { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AppCompatButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AppCompatCheckBox { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AppCompatEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AppCompatImageButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AppCompatImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AppCompatRatingBar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AppCompatTextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.DialogTitle { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.SearchView { <init>(android.content.Context); }
+
+-keep class androidx.appcompat.widget.SearchView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.SwitchCompat { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.Toolbar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.cardview.widget.CardView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.constraintlayout.widget.ConstraintLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.constraintlayout.widget.Guideline { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.core.widget.NestedScrollView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.drawerlayout.widget.DrawerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.preference.UnPressableLinearLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.preference.internal.PreferenceImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.viewpager.widget.ViewPager { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.braintreepayments.api.dropin.view.AddCardView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.braintreepayments.api.dropin.view.AnimatedButtonView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.braintreepayments.api.dropin.view.EditCardView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.braintreepayments.api.dropin.view.EnrollmentCardView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.braintreepayments.cardform.view.CardEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.braintreepayments.cardform.view.CardForm { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.braintreepayments.cardform.view.CardholderNameEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.braintreepayments.cardform.view.CountryCodeEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.braintreepayments.cardform.view.CvvEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.braintreepayments.cardform.view.ErrorEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.braintreepayments.cardform.view.ExpirationDateEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.braintreepayments.cardform.view.MobileNumberEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.braintreepayments.cardform.view.PostalCodeEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.braintreepayments.cardform.view.SupportedCardTypesView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.crystal.crystalrangeseekbar.widgets.CrystalRangeSeekbar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.daimajia.slider.library.Indicators.PagerIndicator { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.daimajia.slider.library.SliderLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.daimajia.slider.library.Tricks.InfiniteViewPager { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.facebook.shimmer.ShimmerFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.github.aakira.expandablelayout.ExpandableLinearLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.github.aakira.expandablelayout.ExpandableRelativeLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.github.paolorotolo.appintro.AppIntroViewPager { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.gms.maps.SupportMapFragment { <init>(); }
+
+-keep class com.google.android.material.appbar.AppBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.appbar.CollapsingToolbarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.bottomnavigation.BottomNavigationView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.floatingactionbutton.FloatingActionButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.BaselineLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.navigation.NavigationView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.tabs.TabLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.textfield.TextInputEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.textfield.TextInputLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.instamojo.android.fragments.JusPaySafeBrowser { <init>(); }
+
+-keep class com.kofigyan.stateprogressbar.StateProgressBar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.payu.custombrowser.custombar.DotsProgressBar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.payu.custombrowser.widgets.SnoozeLoaderView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.payu.upisdk.custombar.CircularProgressViewUpiSdk { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.payumoney.core.widget.ExpiryDate { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.payumoney.sdkui.ui.adapters.PagerContainer { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.payumoney.sdkui.ui.widgets.AutoFitRecyclerView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.payumoney.sdkui.ui.widgets.CirclePageIndicator { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.payumoney.sdkui.ui.widgets.CustomDrawableTextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.payumoney.sdkui.ui.widgets.FlipImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.payumoney.sdkui.ui.widgets.OtpEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.payumoney.sdkui.ui.widgets.RoundRectTextInputLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.payumoney.sdkui.ui.widgets.StickyHeaderIndex { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.payumoney.sdkui.ui.widgets.WrapContentHeightViewPager { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.razorpay.CircularProgressView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.rengwuxian.materialedittext.MaterialEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.varagifoods.customer.customs.BannerStyle2ViewPager { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.varagifoods.customer.customs.CircularImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.varagifoods.customer.customs.CustomListView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.varagifoods.customer.customs.CustomViewPager { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.vectorcoder.androidwoocommerce.customs.CircularImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class hyogeun.github.com.colorratingbarlib.ColorRatingBar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class in.juspay.godel.ui.JuspayBrowserFragment { <init>(); }
+
+-keep class in.juspay.godel.ui.JuspayThreeLineAlternateTextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class in.juspay.godel.ui.JuspayThreeLineTextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class in.juspay.godel.ui.JuspayWebView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class in.juspay.godel.ui.OnScreenDisplay$View { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class in.juspay.godel.ui.uber.FloatingActionButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keepclassmembers class * { *** onBackgroundClicked(android.view.View); }
+
+-keepclassmembers class * { *** onClick(android.view.View); }
+
+-keepclassmembers class * { *** onVaultEditButtonClick(android.view.View); }
+
